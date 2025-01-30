@@ -8,6 +8,9 @@ D'altres són scripts per a facilitar algun càlcul, provar alguna llibreria o f
 L'objectiu d'aquest programa era solucionar el fet d'haver de calcular les resistències optimes per projecte personal.
 
 Per a que puguis veure a què m'estic referint, aquí tens una imatge.<br />
+<br />
+<img src="./pictures/imatge_1.png" alt="Programa calculadoraResistencies_especifiques">
+<br />
 Bàsicament el que es mostra per pantalla és:
 
 | Simbols | Explicació |
@@ -17,5 +20,4 @@ Bàsicament el que es mostra per pantalla és:
 | R2 (Ω) | Resistència 2 en Ohms |
 | Rt (Ω) | Resistència total en Ohms |
 | Error (%) | Error respecte a la resistència que desitjes |
-<br />
-<img src="./pictures/imatge_1.png" alt="Programa calculadoraResistencies_especifiques">
+
