@@ -3,7 +3,7 @@
 Recull d'algunes utilitats escrites en Python. Algunes només són poques línies per automatitzar alguna tasca.<br /><br />
 D'altres són scripts per a facilitar algun càlcul, provar alguna llibreria o fins i tot aconseguir trobar una solució d'algun problema amb el que em vaig trobar a la carrera.
 
-## Calculadora resistències
+## Calculadora resistències (calculadoraResistencies_especifiques.py)
 
 L'objectiu d'aquest programa era solucionar el fet d'haver de calcular les resistències optimes per projecte personal.
 
