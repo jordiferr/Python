@@ -26,6 +26,10 @@ Bàsicament el que es mostra per pantalla és:
 En aquest petit programa va consistir en fer proves tant amb les llibreries PyQt5 (part gràfica) així com amb la llibreria **networkx** (nucli del programa). La llibreria **networkx** permet treballar amb [grafs](https://ca.wikipedia.org/wiki/Teoria_de_grafs).<br />
 La necessitat d'utilitzar-la va ser degut a les pràctiques a la univeristat, al algorisme de Dijkstra i a com plantejar xarxes.
 
+## <em>Fotografies</em>
+
+Aquest tres petits programes son utilitzats per a netejar imatges practicament idèntiques que contenen ytes reduntants al final de cada imatge
+
 ## <em>Instagram ID to USERNAME</em>
 
 El programa **instagram_ID_to_username** el vaig crear per la necessitat de saber interactuar amb pàgines web per demanar i/o aconseguir informació. En aquest cas, utilitzant una pàgina web tercera permet obtenir dades aparentment no accessibles per a l'usuari normal.<br />
